@@ -13,6 +13,6 @@
 
 💬 Ask me about Java, Python, Data Structures, Machine Learning basics, and Web Development
 
-📫 How to reach me: [your email here] | [LinkedIn link here]
+📫 How to reach me: supungimhaninfo@gmail.com
 
 ⚡ Fun fact: I enjoy turning complex problems into simple, efficient code 🚀
