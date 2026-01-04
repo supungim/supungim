@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**supungim/supungim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Associate Software Engineer
+💻 Passionate about building efficient, scalable, and user-focused software solutions.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on full-stack and machine learning projects to strengthen my real-world development skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning advanced Java, Spring Boot, React, and backend system design
+
+👯 I’m looking to collaborate on open-source projects and innovative software applications
+
+🤔 I’m looking for help with improving system scalability and clean architecture practices
+
+💬 Ask me about Java, Python, Data Structures, Machine Learning basics, and Web Development
+
+📫 How to reach me: [your email here] | [LinkedIn link here]
+
+⚡ Fun fact: I enjoy turning complex problems into simple, efficient code 🚀
